@@ -7,5 +7,9 @@ https://www.pyimagesearch.com/2017/06/19/image-difference-with-opencv-and-python
 When comparing images, the mean squared error (MSE)–while simple to implement–is not highly indicative of perceived similarity. 
 Structural similarity aims to address this shortcoming by taking texture into account 
 
+![test1](test1.png)
+
+![test2](test2.png)
 
 
+The code manages to identify the differences accurately, further improvements can be made in reducing the false positives
